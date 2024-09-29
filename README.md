@@ -1,1 +1,2 @@
-# taller01
+# React + TypeScript + Vite
+
